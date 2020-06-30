@@ -34,8 +34,7 @@ public class Main {
         for (int i = 0; i < array2.length; i++) {
             if (array2[i] % 2 == 0) {
                 System.out.println(array2[i] + "-четное число");
-            }
-            if (array2[i] % 2 != 0) {
+            } else {
                 System.out.println(array2[i] + "-нечетное число");
             }
         }
