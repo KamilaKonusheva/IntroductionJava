@@ -13,14 +13,18 @@ public class Main {
         int[] array = {12, 13, 23, 26, 38, 19};
         int max = array[0];
         for (int i = 1; i < array.length; i++) {
-            if (array[i] > max) max = array[i];
+            if (array[i] > max){
+                max = array[i];
+            }
         }
         System.out.println("Наибольшее число:" + max);
 
         int[] array1 = {35, 48, 98, 100, 38};
         int min = array1[0];
         for (int i = 1; i > array.length; i++) {
-            if (array1[i] < min) min = array[i];
+            if (array1[i] < min){
+                min = array[i];
+            }
         }
         System.out.println("Наименьшее число:" + min);
 
