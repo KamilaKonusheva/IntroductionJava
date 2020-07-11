@@ -41,6 +41,5 @@ public class Main {
         System.out.println("Dog's age:" + dog.getAge());
         dog.setColour("white");
         System.out.println("Dog's colour:" + dog.getColour());
-
     }
 }
