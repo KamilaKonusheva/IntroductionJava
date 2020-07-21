@@ -120,7 +120,7 @@ public class User<write> {
                 '}';
     }
 
-    public User(String text) {
+    public void User(String text) {
 
         System.out.println("Inner text:" + text);
     }
