@@ -121,7 +121,6 @@ public class User<write> {
     }
 
     public void User(String text) {
-
         System.out.println("Inner text:" + text);
     }
 
