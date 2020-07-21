@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
         User user = new User();
         User.write();
-        new User("hello");
         // проверяла для себя
     }
 
