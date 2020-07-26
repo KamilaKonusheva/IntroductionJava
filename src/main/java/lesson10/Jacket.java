@@ -119,7 +119,6 @@ public final class Jacket extends Outerwear {
         if (clientAnswer == clientAnswer2) {
             System.out.println("We recommend you to apply for our discount client card!");
         }
-
     }
 
     public void jacketDefinition() {
