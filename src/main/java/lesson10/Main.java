@@ -172,26 +172,5 @@ public class Main {
         furCoat.sizeRecommendation();
         furCoat.weekendDiscount();
         furCoat.cardDiscount();
-
-        //Recommendation recommendation = new Recommendation() {
-        // @Override
-        //public void styleRecommendation() {
-        //}
-
-        //@Override
-        //public void sizeRecommendation() {
-
-        //}
-
-        //@Override
-        //public void weekendDiscount() {
-
-        //}
-
-        //@Override
-        //public void cardDiscount() {
-
-        // }
-        //}
     }
 }
