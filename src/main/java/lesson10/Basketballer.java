@@ -105,6 +105,5 @@ public final class Basketballer extends Player {
     @Override
     public void trainingHours(double hours) {
         System.out.println("The number of training hours per day:" + hours);
-
     }
 }
