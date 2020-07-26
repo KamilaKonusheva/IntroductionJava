@@ -85,7 +85,6 @@ public final class Coat extends Outerwear {
         if (style == EVENING_STYLE) {
             System.out.println("We recommend you to pay attention to clothes in Evening style!");
         }
-
     }
 
     @Override
