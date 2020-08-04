@@ -22,7 +22,7 @@ public class Pet {
     }
 
     public void setPets(ArrayList<Pet> pets) {
-
+        
         this.pets = pets;
     }
 
